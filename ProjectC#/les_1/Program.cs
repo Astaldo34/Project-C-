@@ -20,6 +20,24 @@
 // 44 5 78 -> 78
 // 22 3 9 -> 22
 
+// Console.Write("Введите первое число: ");
+// int num_1 = int.Parse(Console.ReadLine());
+// Console.Write("Введите второе число: ");
+// int num_2 = int.Parse(Console.ReadLine());
+// Console.Write("Введите третье число: ");
+// int num_3 = int.Parse(Console.ReadLine());
+
+// if (num_1 > num_2 && num_1 > num_3) {
+//     Console.WriteLine($"Первое число больше всех - {num_1}");
+// } else if (num_2 > num_1 && num_2 > num_3) {
+//     Console.WriteLine($"Второе число больше всех - {num_2}");
+// } else {
+//     Console.WriteLine($"Третье число больше всех - {num_3}");
+// };
+
+// int[] arr = {num_1, num_2, num_3};
+// Console.WriteLine($"Максимальное число с помощью встроенного метода массива Max() - {arr.Max()}");
+
 // Задача 6: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
 
 // 4 -> да
